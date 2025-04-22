@@ -57,7 +57,7 @@ function App() {
           readOnly
           ref={passwordRef}
         />
-        <butto
+        <button
           onClick={copyPasswordToClipboard}
           className="bg-blue-600 hover:bg-blue-700 text-white px-4 text-xl"
         >
